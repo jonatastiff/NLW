@@ -121,3 +121,8 @@ main section:nth-child(2) {
 main section:nth-child(3) {
     animation-delay: .8s;
 }
+footer {
+    color:white;
+    text-align: center;
+    font-size: small;
+}
