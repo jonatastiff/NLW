@@ -3,9 +3,9 @@
 ![preview](./.github/preview.png)
 
 > Trilha Explorer
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto construído para o evento Next Level Week da Rocketseat (NLW).
 
-[🔗 Clique aqui para acessar](/)
+[🔗 Clique aqui para acessar](https://jonatastiff.github.io/nlw-esports-explorer/)
 
 
 ## 🛠 Tecnologias utilizadas
