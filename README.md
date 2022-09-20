@@ -1,4 +1,4 @@
-# NLW eSports
+# NLW e-Sports
 
 ![preview](./.github/preview.png)
 
@@ -6,7 +6,6 @@
 Projeto construído para o evento Next Level Week da Rocketseat (NLW).
 
 [🔗 Clique aqui para acessar](https://jonatastiff.github.io/nlw-esports-explorer/)
-
 
 ## 🛠 Tecnologias utilizadas
 
